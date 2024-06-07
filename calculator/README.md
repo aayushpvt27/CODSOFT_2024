@@ -44,4 +44,3 @@ To run the calculator on your local machine, follow these steps:
 
 **Disclaimer:** This calculator is intended for educational purposes and may not handle all edge cases. Please use it responsibly and verify results for critical calculations.
 
-For questions or support, contact: motwaniriya42@gmail.com
