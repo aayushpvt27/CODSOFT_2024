@@ -12,7 +12,7 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 ## Live Demo
 
-You can try the calculator live by visiting the following link: [Live Demo]https://github.com/RiyaMotwani/CODSOFT/tree/db38bad9aa35b8f716947c213e31c8bbf05bff60/calculator)
+You can try the calculator live by visiting the following link: [Live Demo]https://github.com/aayushpvt27/CODSOFT_2024/tree/main/calculator)
 
 ## Getting Started
 
@@ -39,9 +39,6 @@ To run the calculator on your local machine, follow these steps:
 
 **Contributions are not welcome for this project.**
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
