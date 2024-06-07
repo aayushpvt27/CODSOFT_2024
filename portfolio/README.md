@@ -5,8 +5,8 @@ Welcome to my portfolio! This repository showcases my skills, ongoing skill deve
 
 To run this file on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/RiyaMotwani/portfolior.git`
-2. Navigate to the project directory: `cd portfolior`
+1. Clone the repository: `[git clone https://github.com/RiyaMotwani/portfolior.gi](https://github.com/aayushpvt27/CODSOFT_2024.git)t`
+2. Navigate to the project directory: `cd portfolio`
 3. Open `portfolio.html` in your web browser.
 
 ## Technologies Used
@@ -19,8 +19,4 @@ To run this file on your local machine, follow these steps:
 
 **Contributions are not welcome for this project.**
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-For questions or support, contact: motwaniriya42@gmail.com
