@@ -14,13 +14,6 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 You can try the calculator live by visiting the following link: [Live Demo]https://github.com/aayushpvt27/CODSOFT_2024/tree/main/calculator)
 
-## Getting Started
-
-To run the calculator on your local machine, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/RiyaMotwani/calculator.git`
-2. Navigate to the project directory: `cd calculator`
-3. Open `calc.html` in your web browser.
 
 ## Usage
 
@@ -37,10 +30,5 @@ To run the calculator on your local machine, follow these steps:
 
 ## Contributing
 
-**Contributions are not welcome for this project.**
 
-
----
-
-**Disclaimer:** This calculator is intended for educational purposes and may not handle all edge cases. Please use it responsibly and verify results for critical calculations.
 
