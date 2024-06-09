@@ -28,7 +28,7 @@ You can try the calculator live by visiting the following link: [Live Demo]https
 - CSS
 - JavaScript
 
-## Contributing
+
 
 
 
